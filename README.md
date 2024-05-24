@@ -1,6 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Wild Oasis
+built with React Query and Supabase
 
 Currently, two official plugins are available:
 
