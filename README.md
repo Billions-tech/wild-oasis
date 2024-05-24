@@ -1,5 +1,8 @@
 # The Wild Oasis
-built with React Query and Supabase
+Built with React Query and Supabase. 
+Note: Desktop view only
+      username: Tyson@test.com 
+      password: pass123
 
 Currently, two official plugins are available:
 
